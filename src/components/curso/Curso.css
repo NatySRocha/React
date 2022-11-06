@@ -1,0 +1,6 @@
+.titulo-curso {
+  height: 60px;
+  text-transform: capitalize;
+  color: rgb(32, 113, 218);
+  font-family: "Times New Roman", Times, serif;
+}

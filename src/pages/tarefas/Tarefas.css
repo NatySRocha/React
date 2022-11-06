@@ -1,0 +1,16 @@
+form {
+  width: 500px;
+  margin: 0 auto;
+  text-align: left;
+  font-size: large;
+}
+
+input {
+  display: block;
+  margin: 10px;
+  text-align: left;
+}
+
+h1 {
+  color: olivedrab;
+}
